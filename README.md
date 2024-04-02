@@ -16,8 +16,9 @@ End the program
 ### PROGRAM:
 ```python
 
-NAME   :SANJAY M
-Reg No :212223230187
+#Developed by   : SANJAY M
+#Register No    :212223230187
+
 
 x1=int(10)
 y1=int(6)
@@ -31,7 +32,7 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![Screenshot 2024-03-08 184452](https://github.com/sanjayofficial2005/DISTANCE-BETWEEN-TWO-POINTS/assets/148048602/cf4a430c-da49-4bd7-bd09-a4a761005694)
+![Screenshot 2024-04-02 170419](https://github.com/sanjayofficial2005/DISTANCE-BETWEEN-TWO-POINTS/assets/148048602/bc898e6f-638b-42a9-87b5-eda57c4bc879)
 
 ![Screenshot 2024-03-08 184501](https://github.com/sanjayofficial2005/DISTANCE-BETWEEN-TWO-POINTS/assets/148048602/c7b21f1c-f403-4d66-acbd-2251ad460312)
 
